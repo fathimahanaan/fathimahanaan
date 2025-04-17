@@ -44,5 +44,5 @@
 <h3 align="left">🔥 GitHub Streak</h3>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=fathimahanaan&theme=default&hide_border=false&ring=ffffff&fire=ff9c00&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fathimahanaan&theme=highcontrast&hide_border=false&ring=ffffff&fire=ff9c00&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
