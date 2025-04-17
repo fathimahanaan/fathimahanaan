@@ -17,8 +17,8 @@
 
 ---
 
-- 🔭 I’m currently working on **full-stack development** (both frontend & backend) using **React**, **Node.js**, and more at **Tron Digital**  
-- 🎓 I'm a **level-3 computer science student**  
+- 🔭 I’m  level-3 computer science student**  
+- 🎓 I'm a **web-developer at Tron digital**  
 - 📫 How to reach me: **hanaanfh764@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
