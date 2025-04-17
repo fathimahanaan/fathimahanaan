@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Fathima Hanaan</h1>
-<h3 align="center">A passionate full-stack developer and third-year student</h3>
+<h3 align="center">A passionate full-stack developer and level-3 computer science student</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fathimahanaan&label=Profile%20views&color=0e75b6&style=flat" alt="fathimahanaan" />
 </p>
 
+---
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=tokyonight" alt="fathimahanaan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
+
+---
 
 - 🔭 I’m currently working on **full-stack development** (both frontend & backend) using **React**, **Node.js**, and more at **Tron Digital**  
 - 🎓 I'm a **level-3 computer science student**  
