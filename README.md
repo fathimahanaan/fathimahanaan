@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fathima Hanaan</h1>
-<h3 align="center">A passionate full-stack developer and level-3 computer science student</h3>
+<h3 align="center">A passionate full-stack developer and third-year student</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fathimahanaan&label=Profile%20views&color=0e75b6&style=flat" alt="fathimahanaan" />
+  <img src="https://komarev.com/ghpvc/?username=fathimahanaan&label=Profile%20views&color=ffffff&style=flat" alt="fathimahanaan" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=flat&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 <h3 align="left">🧑‍💻 Most Used Languages</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahanaan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahanaan&layout=compact&theme=graywhite" alt="Top Languages" />
 </p>
 
 ---
@@ -44,5 +44,5 @@
 <h3 align="left">🔥 GitHub Streak</h3>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=fathimahanaan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fathimahanaan&theme=default&hide_border=false&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
