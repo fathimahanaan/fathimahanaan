@@ -32,3 +32,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahanaan&layout=compact&theme=default" alt="Top Langs" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Most%20Used%20in%202024-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge" />
+</p>
