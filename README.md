@@ -7,11 +7,11 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan" alt="fathimahanaan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=tokyonight" alt="fathimahanaan" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **React** projects at **Tron Digital**  
+- 🔭 I’m currently working on **full-stack development** (both frontend & backend) using **React**, **Node.js**, and more at **Tron Digital**  
 - 🎓 I'm a **level-3 computer science student**  
 - 📫 How to reach me: **hanaanfh764@icloud.com**
 
@@ -31,4 +31,12 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahanaan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="left">🔥 GitHub Streak</h3>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=fathimahanaan&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
