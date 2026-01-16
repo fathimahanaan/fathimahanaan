@@ -1,39 +1,44 @@
 <h1 align="center">Hi 👋, I'm Fathima Hanaan</h1>
-<h3 align="center">A passionate full-stack developer and third-year student</h3>
+<h3 align="center">Full-Stack Developer | Computer Science Undergraduate</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fathimahanaan&label=Profile%20views&color=ffffff&style=flat" alt="fathimahanaan" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fathimahanaan&label=Profile%20Views&color=0e75b6&style=flat" alt="fathimahanaan" />
 </p>
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+## 🚀 About Me
+
+- 🎓 **Third-year Computer Science student**
+- 💼 **Web Developer at Tron Digital**
+- 💻 Passionate about building **scalable web applications**
+- 🌱 Constantly learning new technologies and best practices
+- 📫 Reach me at **hanaanfh764@icloud.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=flat&row=1&column=6" alt="GitHub Trophies" />
+  <a href="https://linkedin.com/in/fathimahanaan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/fathimahanaan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-- 🔭 I’m a level-3 computer science student**  
-- 🎓 I'm a **web-developer at Tron digital**  
-- 📫 How to reach me: **hanaanfh764@icloud.com**
+## 🏆 GitHub Trophies
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/fathimahanaan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathimahanaan" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/fathimahanaan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fathimahanaan" height="30" width="40" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=fathimahanaan&theme=flat&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h3 align="left">🧑‍💻 Most Used Languages</h3>
+## 🧑‍💻 Most Used Languages
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahanaan&layout=compact&theme=graywhite" alt="Top Languages" />
@@ -41,8 +46,12 @@
 
 ---
 
-<h3 align="left">🔥 GitHub Streak</h3>
+## 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=fathimahanaan&theme=highcontrast&hide_border=false&ring=ffffff&fire=ff9c00&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fathimahanaan&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+✨ *“Code with passion, build with purpose.”*
