@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathima Hanaan</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Undergraduate</h3>
+<h3 align="center">Full-Stack Developer | Computer Science Undergraduate at Ulster University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fathimahanaan&label=Profile%20Views&color=0e75b6&style=flat" alt="fathimahanaan" />
@@ -9,11 +9,25 @@
 
 ## 🚀 About Me
 
-- 🎓 **Third-year Computer Science student**
-- 💼 **Web Developer at Tron Digital**
-- 💻 Passionate about building **scalable web applications**
-- 🌱 Constantly learning new technologies and best practices
-- 📫 Reach me at **hanaanfh764@icloud.com**
+- 🎓 **Computer Science student at Ulster University**  
+- 💼 **Web Developer at Tron Digital**  
+- 💻 Passionate about building **efficient and scalable web applications**  
+- 🌱 Constantly learning **new tools, frameworks, and cloud technologies**  
+- 📫 Reach me at **hanaanfh764@icloud.com**  
+
+---
+
+## 🛠️ Tools & Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mean%20Stack-007ACC?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
 
 ---
 
@@ -54,4 +68,4 @@
 
 ---
 
-✨ *“Code with passion, build with purpose.”*
+✨ *“Coding with curiosity, building with impact.”*
