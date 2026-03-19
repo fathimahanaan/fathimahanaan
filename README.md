@@ -1,7 +1,7 @@
 Computer Science Student at Ulster University
-💼 Web Developer at Tron Digital
-⚡ Passionate about full-stack development & scalable software
-🌱 Currently learning AI, Machine Learning & Deep Learning
+Web Developer at Tron Digital
+Passionate about full-stack development & scalable software
+Currently learning AI, Machine Learning & Deep Learning
 
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,sql,python,java,js,ts,azure,git,github" /> </p>
