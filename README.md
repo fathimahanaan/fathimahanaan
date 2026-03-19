@@ -36,7 +36,7 @@
 
 ## 📁 Featured Projects
 
-## 📁 Featured Projects
+ 
 
 <p align="center">
 
