@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,python,java,mongodb,sql,cosmosdb,blobstorage,azure,logicapps,docker,git,github,wireshark,kali" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,python,java,mongodb,sql,azure,cosmosdb,blobstorage,logicapps,docker,git,github,wireshark,kali" />
 </p>
 
 ---
