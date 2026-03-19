@@ -36,11 +36,33 @@
 
 ## 📁 Featured Projects
 
+## 📁 Featured Projects
+
 <p align="center">
-- Multimedia Cloud Platform – Full-stack website on Azure to upload and share images  
-- **Carbon Emission Tracker** – Full-stack app to track & reduce carbon footprint 🚀  
-- **E-Learning Platform** – Interactive platform for online courses 📚  
-- **Recipe App** – Web app to browse and share recipes 🍲  
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #2f3136; border-radius: 10px; padding: 15px; width: 220px; background-color: #0d1117;">
+    <h3 style="color:#00F7FF;">Multimedia Cloud Platform</h3>
+    <p style="color:#c9d1d9; font-size: 14px;">Full-stack website on Azure to upload and share images securely ☁️📷</p>
+  </div>
+
+  <div style="border: 1px solid #2f3136; border-radius: 10px; padding: 15px; width: 220px; background-color: #0d1117;">
+    <h3 style="color:#00F7FF;">Carbon Emission Tracker</h3>
+    <p style="color:#c9d1d9; font-size: 14px;">Full-stack app to track & reduce carbon footprint 🚀</p>
+  </div>
+
+  <div style="border: 1px solid #2f3136; border-radius: 10px; padding: 15px; width: 220px; background-color: #0d1117;">
+    <h3 style="color:#00F7FF;">E-Learning Platform</h3>
+    <p style="color:#c9d1d9; font-size: 14px;">Interactive platform for online courses 📚</p>
+  </div>
+
+  <div style="border: 1px solid #2f3136; border-radius: 10px; padding: 15px; width: 220px; background-color: #0d1117;">
+    <h3 style="color:#00F7FF;">Recipe App</h3>
+    <p style="color:#c9d1d9; font-size: 14px;">Web app to browse and share recipes 🍲</p>
+  </div>
+
+</div>
 </p>
 
 ---
