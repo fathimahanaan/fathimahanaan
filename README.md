@@ -1,7 +1,10 @@
-Computer Science Student at Ulster University
-Web Developer at Tron Digital
-Passionate about full-stack development & scalable software
-Currently learning AI, Machine Learning & Deep Learning
+<h1 align="center"> I'm Hanaan</h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;React+%7C+Node.js+%7C+Angular;Learning+AI+%7C+ML+%7C+DL" /> </p> <p align="center"> <img src="https://user-images.githubusercontent.com/102305380/236432385-318b68d6-2a9e-46f5-839e-5f0c71b3b3ea.gif" width="600" /> </p>
+ 
+
+🎓 Computer Science Student at Ulster University
+⚡ Passionate about full-stack development & scalable software
+   Currently learning AI, Machine Learning & Deep Learning
+ 
 
 🛠 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,sql,python,java,js,ts,azure,git,github" /> </p>
