@@ -20,31 +20,9 @@
 ---
 
 ## 🛠 Tech Stack
-
-### Frontend & Backend
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,python,java,mongodb,sql,cosmosdb,blobstorage,azure,logicapps,docker,git,github,wireshark,kali" />
 </p>
-
-### Databases & Storage
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sql,cosmosdb,blobstorage" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,logicapps,docker,git,github" />
-</p>
-
-### Networking & Security (Learning)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wireshark,kali" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -82,9 +60,4 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact & Learning
-
-* 💡 Currently exploring **AI, ML, Deep Learning & Networking**
-* 📚 Interested in building **software that solves real-world problems**
 * ✨ “Coding with curiosity, building with impact.”
