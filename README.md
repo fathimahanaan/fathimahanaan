@@ -1,7 +1,7 @@
 <h1 align="center">I'm Hanaan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;React+%7C+Node.js+%7C+Angular;Learning+AI+%7C+ML+%7C+DL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;React+%7C+Node.js+%7C+Angular;Learning+AI+%7C+ML+%7C+DL+%7C+Networking" />
 </p>
 
 <p align="center">
@@ -14,15 +14,35 @@
 
 * Computer Science Student at **Ulster University**
 * Passionate about **Full-Stack Development & Scalable Software**
-* Currently learning **AI, Machine Learning & Deep Learning**
+* Currently learning **AI, Machine Learning, Deep Learning & Networking**
 * Exploring **Cloud Technologies with Azure**
 
 ---
 
 ## 🛠 Tech Stack
 
+### Frontend & Backend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,sql,python,java,js,ts,azure,git,github,cosmosdb,logicapps,blobstorage" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,js,ts,python,java" />
+</p>
+
+### Databases & Storage
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,sql,cosmosdb,blobstorage" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,logicapps,docker,git,github" />
+</p>
+
+### Networking & Security (Learning)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wireshark,kali" />
 </p>
 
 ---
@@ -39,10 +59,10 @@
 ## 📁 Featured Projects
 
 <p align="center">
+- Multimedia Cloud Platform – Full-stack website on Azure to upload and share images  
 - **Carbon Emission Tracker** – Full-stack app to track & reduce carbon footprint 🚀  
 - **E-Learning Platform** – Interactive platform for online courses 📚  
 - **Recipe App** – Web app to browse and share recipes 🍲  
-- **Multimedia Cloud Platform** – Built using Azure to upload, store, and share images securely ☁️📷  
 </p>
 
 ---
@@ -65,6 +85,6 @@
 
 ## ⚡ Fun Fact & Learning
 
-* 💡 Currently exploring **AI, ML & Deep Learning**
+* 💡 Currently exploring **AI, ML, Deep Learning & Networking**
 * 📚 Interested in building **software that solves real-world problems**
 * ✨ “Coding with curiosity, building with impact.”
