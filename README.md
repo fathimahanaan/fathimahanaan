@@ -31,9 +31,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/fathimahanaan">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+ 
   <a href="https://instagram.com/fathimahanaan">
     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
