@@ -23,7 +23,7 @@
 
 * **Multimedia Cloud Platform** – Full-stack website on Azure to upload and share images securely  
 * **Carbon Emission Tracker** – Full-stack web application that calculates carbon emissions based on user activities, provides emission prediction history using machine learning models, visualizes environmental impact through interactive dashboards and charts, tracks emission trends over time, and includes an admin dashboard for managing users, monitoring analytics, and generating sustainability insights 
-* **E-Learning Platform** – Interactive platform for online courses  
+* **E-Learning Platform** – Full-stack online learning platform featuring course management, student enrollment, progress tracking, real-time chat functionality, facial recognition , secure backend services, authentication and authorization, interactive assessments, and a comprehensive admin dashboard for managing users, courses, attendance records, and platform analytics. 
 * **Recipe App** – Web app to browse and share recipes  
 
 ---
