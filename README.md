@@ -22,7 +22,7 @@
 ## 📁 Featured Projects
 
 * **Multimedia Cloud Platform** – Full-stack website on Azure to upload and share images securely  
-* **Carbon Emission Tracker** – Full-stack app to track & reduce carbon footprint  
+* **Carbon Emission Tracker** – Full-stack web application that calculates carbon emissions based on user activities, provides emission prediction history using machine learning models, visualizes environmental impact through interactive dashboards and charts, tracks emission trends over time, and includes an admin dashboard for managing users, monitoring analytics, and generating sustainability insights 
 * **E-Learning Platform** – Interactive platform for online courses  
 * **Recipe App** – Web app to browse and share recipes  
 
