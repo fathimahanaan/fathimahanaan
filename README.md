@@ -30,11 +30,11 @@
 
 ## 📁 Featured Projects
 
-* **Multimedia Cloud Platform** – Full-stack  cloud-based application built on Azure that enables users to securely upload, store, manage, and share multimedia content using Azure Blob Storage, Cosmos DB, authentication, and role-based access control.
+* **Multimedia Cloud Platform** – Full-stack  cloud-based application built on Azure that enables users to securely upload, store, manage, and share multimedia content using Azure Blob Storage, Cosmos DB, Azure logic APP for backend.
 
-* **Carbon Emission Tracker** – Mern-stack web application that calculates carbon emissions based on user activities, provides emission prediction history using machine learning models, visualizes environmental impact through interactive dashboards and charts, tracks emission trends over time, and includes an admin dashboard for managing users, monitoring analytics, and generating sustainability insights.
+* **Carbon Emission Tracker** – Mern-stack web application that calculates carbon emissions based on user activities, provides upcoming emission prediction using linear regression, visualizes environmental impact through interactive dashboards and charts, tracks emission trends over time, and includes an admin dashboard for managing users, monitoring analytics, and generating sustainability insights.
 
-* **E-Learning Platform** – Full-stack e-learning platform built with a secure backend architecture, featuring course creation and management, student enrollment, progress tracking, real-time messaging, facial recognition-based attendance verification, quizzes and assessments, role-based authentication, and an admin dashboard for managing users, courses, attendance, and learning analytics.
+* **E-Learning Platform** – Full-stack e-learning platform built with a secure backend architecture, featuring course creation and management, student enrollment, progress tracking, real-time messaging, facial recognition feature, quizzes and assessments, role-based authentication, and an admin dashboard for managing users, courses, attendance, and learning analytics.
 
 * **Recipe App** – Modern  web application that allows users to discover, search, create, and share recipes, manage favourite dishes, and explore meal ideas through an intuitive and responsive interface.
 
